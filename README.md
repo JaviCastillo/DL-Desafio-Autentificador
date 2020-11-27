@@ -1,5 +1,14 @@
 # vuerouter-autentificador
 
+## Alumno: Javier Alejandro Castillo Oñatt
+
+## Credenciales de Autentificacion
+```
+user:     user@api.com
+password: 123456
+
+```
+
 ## Project setup
 ```
 npm install
